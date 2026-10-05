@@ -10,9 +10,6 @@
 
 <!-- ═══════════════════════ BADGES ROW ═══════════════════════ -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Harshal8766&label=Profile%20Views&color=58a6ff&style=for-the-badge)](https://github.com/Harshal8766)
-[![GitHub followers](https://img.shields.io/github/followers/Harshal8766?style=for-the-badge&color=58a6ff&labelColor=1c2128&label=Followers)](https://github.com/Harshal8766?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Harshal8766?style=for-the-badge&color=58a6ff&labelColor=1c2128&label=Stars)](https://github.com/Harshal8766)
-
 </div>
 
 <!-- ═══════════════════════ ANIMATED DIVIDER ═══════════════════════ -->
