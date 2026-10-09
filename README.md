@@ -58,7 +58,7 @@ me.say_hi()
 💻 Languages
 🛠️ Tools & Platforms
 🏆 GitHub Trophies
-📊 GitHub Stats
+📊 GitHub Stats.
 📈 Contribution Activity
 🐍 Watch My Contributions Get Eaten!
 🌐 Let's Connect!
