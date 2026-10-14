@@ -1,4 +1,7 @@
 # <div align="center">
+###  Open Source Contributions
+            
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
 <!-- ═══════════════════════ HEADER WAVE ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Harshal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Full-Stack%20Dev%20%7C%20Python%20Learner%20%7C%20Tech%20Enthusiast&descAlignY=58&descFontSize=18&descFontColor=cdd6f4" width="100%"/>
