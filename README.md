@@ -53,7 +53,7 @@ me.say_hi()
 
 🔭 Looking to collaborate on open-source projects
 
-📧 Reach me: your.email@gmail.com
+
 
 ⚡ Fun fact: I turn coffee into code ☕ → 💻
 
